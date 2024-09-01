@@ -10,7 +10,7 @@ init() {
   setDvarIfUninitialized(
     "bot_disabled_maps",
     // custom maps / individual ports
-    "mp_stalingrad "  + "mp_haus "  + "mp_mountain "  +
+    "mp_stalingrad "  + "mp_haus "        + "mp_mountain "  +
     // mw2cr / h2m maps
     "airport "        + "cliffhanger "    + "contingency "  + "dcburning "  + "boneyard " + "gulag "  + "oilrig " +
     "estate "         + "dc_whitehouse"
